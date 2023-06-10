@@ -18,5 +18,9 @@ int main() {
 }
 ```
 
-just remember that this is my personal note repo so you may or may not find comfortable while reading this
+just remember that this is my personal note repo so you may or may not find comfortable while reading this...
+
+first line is including a header file like we do in c, second line means that we can use names for objects and variables from the standard library, int main() plays the main role here, anything under int main() will get executed, std::cout << 99 << endl; here std::cout is including the namespace std library and cout is like print or printf, basically prints everything unders it but make sure to use "" for strings. <<endl basically creates a new line..
+
+
   
