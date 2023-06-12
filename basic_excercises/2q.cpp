@@ -6,5 +6,5 @@ int main () {
     int b = 30;
     int sum = a+b;
 
-    cout << "Sum of a and b is "  << sum << endl;
+    cout << "Sum of a and b is "  << sum << "." << endl;
 }
